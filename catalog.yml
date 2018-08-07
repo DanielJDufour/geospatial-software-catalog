@@ -1,0 +1,43 @@
+- name: GeoBlaze
+  description: Blazing fast JavaScript Raster Processing Engine
+  tags:
+    - geoblaze
+    - georaster
+    - geotiff
+    - geotiff.io
+    - gis
+    - maps
+    - raster
+    - geoprocessing
+    - pixels
+    - tiff
+  contact:
+    email: daniel.j.dufour@gmail.com
+  repositoryURL: https://github.com/GeoTIFF/geoblaze
+  organization: GeoTIFF
+- name: GeoTIFF.io
+  description: Static website for viewing and analyzing GeoTIFF's in the browser
+  tags:
+    - geoblaze
+    - georaster
+    - geotiff
+    - geotiff.io
+    - gis
+    - maps
+    - raster
+    - geoprocessing
+    - pixels
+    - tiff
+  contact:
+    email: daniel.j.dufour@gmail.com
+  repositoryURL: https://github.com/GeoTIFF/geotiff.io
+  organization: GeoTIFF
+- name: QGIS
+  description: A Free and Open Source Geographic Information System
+  tags:
+    - desktop
+    - gui
+  contact:
+    email: https://lists.osgeo.org/mailman/listinfo/qgis-user
+  repositoryURL: https://github.com/qgis/QGIS
+  organization: QGIS
